@@ -1,8 +1,8 @@
 # 2025 Text Analytics Final Project
 
 ## Authors
-Elmina Heder
-Leo Moore
+* Elmina Heder
+* Leo Moore
 
 ## Description
 This is a repository housing our final project for Text Analytics. 
